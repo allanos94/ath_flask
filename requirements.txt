@@ -1,0 +1,14 @@
+Flask==2.1.3
+## Fix __all__ error
+SQLAlchemy==1.4
+Flask-Security
+flask_sqlalchemy==2.5.1
+blinker
+flask_ngrok
+flask_wtf==0.15.1
+##this works for me:
+mysqlclient==2.1.1
+email_validator
+python-dotenv
+## New to use pandas
+pandas==2.0.3
